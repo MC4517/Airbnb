@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Programme Airbnb avec toute les fonctionnalitées qui marchent.
+
+N'oubliez pas le bundle instal.
